@@ -1,0 +1,1 @@
+--- # YES, PIZZA _is_ WONDERFUL. Vel gert, með því að `.replace ()` aðferð! Næst munum við kanna ** tölur **. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

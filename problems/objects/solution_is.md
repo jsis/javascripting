@@ -1,0 +1,1 @@
+--- # PIZZA hlutur er GO. Þú búið tókst hlut! Í næstu áskorun munum við leggja áherslu á að fá aðgang mótmæla eiginleika. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

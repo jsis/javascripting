@@ -1,0 +1,1 @@
+--- # ÞÚ ert í stjórn á röksemdir! Vel gert að ljúka æfingu. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

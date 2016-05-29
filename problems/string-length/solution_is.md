@@ -1,0 +1,1 @@
+--- # WIN: 14 CHARACTERS þú fékkst það! Strengurinn `dæmið strengur hefur 14 stafi. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

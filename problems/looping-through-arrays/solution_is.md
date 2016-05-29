@@ -1,0 +1,1 @@
+--- # SUCCESS! Fullt af pets! Nú öll atriði í þeirri `pets` fylking eru fleirtölu! Í næstu áskorun munum við fara frá fylki til að vinna með ** hlutum **. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

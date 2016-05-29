@@ -1,0 +1,1 @@
+--- # Síað! Gott starf sía þessi fylking. Í næstu áskorun við munum vinna á dæmi um aðgang array gildi. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

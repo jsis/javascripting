@@ -1,0 +1,1 @@
+--- # Þú stofnaðir breytilegum! Nice vinna. Í næstu áskorun munum við líta á strengi nánar. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

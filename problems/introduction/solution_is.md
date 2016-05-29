@@ -1,0 +1,1 @@
+--- # ÞÚ GERÐIR ÞAÐ! Nokkuð milli sviga í `console.log ()` eru prentuð á flugstöðina. Svo þetta: `` `JS console.log ( 'halló'); `` `Prenta` hello` að flugstöðinni. Eins og við erum að prenta ** streng ** af stöfum í flugstöðinni: `hello`. Í næstu áskorun við leggja áherslu á að læra um ** breytum **. Hlaupa `javascripting` í vélinni til að velja næsta áskorun.

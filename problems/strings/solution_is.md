@@ -1,0 +1,1 @@
+--- # SUCCESS. Þú ert að venjast þessu band efni! Í næstu áskoranir sem við munum ná hvernig á að vinna strengi. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---
