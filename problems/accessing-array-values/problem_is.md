@@ -1,8 +1,8 @@
-Array elements can be accessed through index number.
+Array þættir er hægt að nálgast í gegnum index númer.
 
-Index number starts from zero to array's property length minus one.
+Index númer byrjar frá núlli til lengdar arraysins mínus einn.
 
-Here is an example:
+Hér er dæmi:
 
 
 ```js
@@ -11,36 +11,35 @@ var pets = ['cat', 'dog', 'rat'];
 console.log(pets[0]);
 ```
 
-The above code will print the first element of `pets` array - string `cat`.
+Forritakóðinn fyrir ofan mun prenta fyrsta stak `pets` arraysins - strenginn `cat`.
 
-Array elements must be accessed through only using bracket notation.
+Array stök verður að nálgast með hornklofa tákni.
 
-Dot notation is invalid.
+Punkta ritháttur er ógildur.
 
-Valid notation:
+Gildir ritháttur:
 
 ```js
 console.log(pets[0]);
 ```
 
-Invalid notation:
+Ógildur ritháttur:
 ```
 console.log(pets.1);
 ```
 
-## The challenge:
+## Áskorunin:
 
-Create a file named `accessing-array-values.js`.
+Búa til skrá sem heitir `accessing-array-values.js`.
 
-In that file, define array `food` :
+Í þeirri skrá, skilgreinið fylkið `food`:
 ```js
 var food = ['apple', 'pizza', 'pear'];
 ```
 
+Notið `console.log()` til að prenta `annað` gildið í arrayinu í terminal.
 
-Use `console.log()` to print the `second` value of array to the terminal.
-
-Check to see if your program is correct by running this command:
+Athugaðu hvort forritið sé rétt með því að keyra þessa skipun:
 
 ```bash
 javascripting verify accessing-array-values.js
