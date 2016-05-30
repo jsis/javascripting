@@ -1,1 +1,11 @@
---- # SUCCESS. Þú ert að venjast þessu band efni! Í næstu áskoranir sem við munum ná hvernig á að vinna strengi. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---
+---
+
+# TÓKST.
+
+Þú ert að venjast þessu strengja dóti!
+
+Í næsta verkefni munum við skoða hvernig má vinna með strengi.
+
+Keyrðu `javascripting` í stjórnborðinu (console) til að velja næsta verkefni. 
+
+---
