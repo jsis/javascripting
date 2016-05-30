@@ -1,1 +1,28 @@
-Þú verður oft að vita hversu margir stafir eru í streng. Fyrir þetta þú verður að nota `.length` eign. Hér er dæmi: `` `JS Var dæmi = 'dæmi string'; example.length `` `## ATH Gættu að það er tímabil milli` example` og `length`. Ofangreind númer mun skila ** númer ** fyrir heildarfjölda stöfum í streng. ## The áskorun: Búa til skrá sem heitir `band-length.js`. Í þeirri skrá, búa til breytu sem heitir `example`. ** Úthluta strenginn ` 'dæmi string'` til breytu` example`. ** Notaðu `console.log` að prenta ** lengd ** strengsins til stöðvarinnar. ** Athugaðu að sjá hvort forritið sé rétt með því að keyra þessa skipun: ** `javascripting staðfesta String-length.js`
+Oft þarftu að vita hversu margir stafir eru í streng.
+
+Til þess þarftu að nota `.length` eiginleikann ***(property)***. Hér er dæmi:
+
+```js
+var example = 'example string';
+example.length
+```
+
+## ATH
+
+Gættu þess að það sé punktur á milli `example` og `length`.
+
+Ofangreindur kóði mun skila **tölu** sem er heildarfjöldi stafa í strengnum.
+
+## Verkefni: 
+
+Búðu til skrá sem heitir `string-length.js`.
+
+Inn í þeirri skrá skaltu búa til breytu sem heitir `example`.
+
+**Gefðu breytunni `example` strenginn `'example string'` sem gildi.**
+
+Notaðu `console.log` til að prenta út **lengd** strengsins í útstöðina ***(console)***. 
+
+**Athugaðu að sjá hvort forritið sé rétt með því að keyra þessa skipun:**
+
+`javascripting verify string-length.js`
