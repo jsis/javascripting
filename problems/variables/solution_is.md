@@ -1,1 +1,8 @@
---- # Þú stofnaðir breytilegum! Nice vinna. Í næstu áskorun munum við líta á strengi nánar. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---
+---
+# Þú bjóst til breytu! 
+
+Vel gert. Í næsta verkefni munum við skoða strengi betur.
+
+Keyrðu `javascripting` í console til að velja næsta verkefni. 
+
+---
