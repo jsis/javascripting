@@ -1,1 +1,33 @@
-A breytu er nafn sem hægt er vísað tiltekið gildi. Breytur eru lýst með `var` fylgt eftir nafni breytu. Hér er dæmi: `` `JS Var dæmi; `` `Ofangreind breyta er ** lýst **, en það er ekki skilgreint (það er ekki enn vísa tiltekið gildi). Hér er dæmi um að skilgreina breytu, sem gerir það vísa tiltekið gildi: `` `JS Var dæmi = 'einhver strengur'; `` `# Athugið breyta er ** lýst ** nota` var` og notar samasemmerkinu til ** skilgreina ** gildi sem það vísar. Þetta er colloquially þekktur sem "Making breytilega jafnan gildi". ## The áskorun: Búa til skrá sem heitir `variables.js`. Í þeirri skrá lýsa breytu sem heitir `example`. ** Gerðu breytu `example` jöfn að verðmæti` 'sumir string'`. ** Þá nota `console.log ()` prenta `example` breytu á vélinni. Athugaðu að sjá hvort forritið sé rétt með því að keyra þessa skipun: `javascripting staðfesta variables.js`
+Breyta ***(variable)*** er nafn sem vísar í tiltekið gildi. Breytur eru skilgreindar með `var` og fylgt eftir með nafni breytunnar.
+
+Hér er dæmi: 
+
+```js 
+var example;
+```
+
+Ofangreind breyta er **skilgreind** ***(defined)*** en vísar ekki enn í tiltekið gildi ***(not declared)***.
+
+Hér er dæmi skilgreinda breytu sem vísar í tiltekið gildi: 
+
+```js
+var example = 'some string';
+```
+
+# Athugið
+
+Breyta er **skilgreind** ***(declared)*** með því að nota `var` en notar samasemmerkið til að gefa breytunni gildi ***(define)*** sem hún vísar síðan í. Almennt er talað um að "gefa breytu gildi".
+
+## Verkefni: 
+
+Búðu til skrá sem heitir `variables.js`.
+
+Í þeirri skrá skaltu skilgreina breytu sem heitir `example`. 
+
+**Gefðu breytunni `example` gildið `'some string'`.**
+
+Notaðu síðan `console.log()` til þess að prenta `example` breytuna í stjórnborð ***(console)***. 
+
+Til þess að sjá hvort forritið er rétt geturðu keyrt þessa skipun: 
+
+`javascripting verify variables.js`
