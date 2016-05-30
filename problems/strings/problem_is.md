@@ -1,1 +1,29 @@
-A ** band ** er röð af stöfum. A *** eðli *** er u.þ.b. tal, skriflega tákn. Dæmi um persónurnar eru bókstafir, tölur, greinarmerki og rými. String gildi eru umkringd annaðhvort einum eða gæsalöppum. `` `JS 'þetta er string'" þetta er líka strengur "` `` ## ATH Reyndu að vera í samræmi. Í þessu verkstæði við munum aðeins nota einn gæsalappir. ## The áskorun: Fyrir þessa áskorun, búa til skrá sem heitir `strings.js`. Í þeirri skrá búa til breytu sem heitir `someString` svona:` `` JS Var someString = 'þetta er string'; `` `Notaðu` console.log` að prenta breytilega ** someString ** að flugstöðinni. Athugaðu að sjá hvort forritið sé rétt með því að keyra þessa skipun: `javascripting staðfesta strings.js`
+**Strengur** ***(string)*** er röð af stöfum. **Stafur** ***(character)*** er, í grófri merkingu, skriflegt tákn. Dæmi um stafi eru bókstafir, tölustafir, greinarmerki og bil.
+
+Gildi strengja eru annaðhvort innan einfaldra eða tvöfaldra gæsalappa.
+
+```js
+'þetta er strengur'
+
+"þetta er líka strengur"
+```
+ 
+## ATH
+
+Reyndu alltaf að vera samkvæmur þegar notast er við gæsalappir. Í þessu námsskeiði munum við aðeins notast við einfaldar gæsalappir.
+
+## Verkefnið:
+
+Fyrir þetta verkefni skaltu búa til skrá sem heitir `strings.js`.
+
+Í þeirri skrá skaltu búa til breytu sem heitir `someString` svona:
+
+```js
+var someString = 'this is a string';
+```
+
+Notaðu `console.log` að prenta út breytuna **someString** í útstöðinni (terminal).
+
+Til að athugaðu hvort forritið sé rétt er hægt að keyra þessa skipun:
+
+`javascripting staðfesta strings.js`
