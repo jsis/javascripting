@@ -1,1 +1,9 @@
---- # WIN: 14 CHARACTERS þú fékkst það! Strengurinn `dæmið strengur hefur 14 stafi. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---
+--- 
+
+# SIGUR: 14 STAFIR
+
+Þú náðir því! Strengurinn `example string` hefur 14 stafi.
+
+Keyrðu `javascripting` í stjórnborðinu ***(console)*** til að velja næsta verkefni.
+
+---
