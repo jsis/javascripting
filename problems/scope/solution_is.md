@@ -1,1 +1,9 @@
---- #EXCELLENT! Þú fékkst það! Annað fall hefur svigrúm við vorum að leita að. Hlaupa javascripting í vélinni til að velja næsta áskorun. ---
+---
+
+#FRÁBÆRT! 
+
+Þú náðir því! Annað fallið geymir gildissviðið sem við vorum að fiska eftir. 
+
+Keyrðu javascripting í stjórnstöðinni (console) til að velja næstu áskorun. 
+
+---
