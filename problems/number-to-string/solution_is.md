@@ -1,0 +1,1 @@
+--- # Þessi tala er nú STRING! Excellent. Gott að vinna umbreyta þessi tala í band. Í næstu áskorun munum taka a líta á ** Ef yfirlýsingar **. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

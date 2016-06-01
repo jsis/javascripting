@@ -1,0 +1,1 @@
+--- # Skilyrt MASTER Þú fékk það! Strengurinn `orange` hefur fleiri en fimm stafir. Fá tilbúinn til að taka á ** fyrir lykkjur ** næst! Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

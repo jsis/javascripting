@@ -1,0 +1,1 @@
+--- # Wooo banana þú gerðir það! Þú búið til fall sem tekur inntak, ferli sem inntak, og veitir framleiðsla. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

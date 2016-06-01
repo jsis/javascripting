@@ -1,0 +1,23 @@
+{
+    "exercise": {
+          "INTRODUCTION":           "KYNNING"
+        , "VARIABLES":              "BREYTUR"
+        , "STRINGS":                "STRENGIR"
+        , "STRING LENGTH":          "LENGD STRENGJA"
+        , "REVISING STRINGS":       "FÖRUM YFIR STRENGI"
+        , "NUMBERS":                "TÖLUR"
+        , "ROUNDING NUMBERS":       "NÁMUNDA TÖLUR"
+        , "NUMBER TO STRING":       "TÖLUR Í STRENGI"
+        , "IF STATEMENT":           "IF SKILYRÐI"
+        , "FOR LOOP":               "FOR LÚPPA"
+        , "ARRAYS":                 "FYLKI"
+        , "ARRAY FILTERING":        "AÐ SÍA FYLKI"
+        , "ACCESSING ARRAY VALUES": "AÐ KOMAST Í GILDI FYLKJA"
+        , "LOOPING THROUGH ARRAYS": "ÝTRUN YFIR FYLKI"
+        , "OBJECTS":                "HLUTIR"
+        , "OBJECT PROPERTIES":      "EIGINLEIKAR HLUTA"
+        , "FUNCTIONS":              "FÖLL"
+        , "FUNCTION ARGUMENTS":     "BREYTUR FALLA"
+        , "SCOPE":                  "UMFANG"
+    }
+}

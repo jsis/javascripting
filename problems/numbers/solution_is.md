@@ -1,0 +1,1 @@
+--- # YEAH! Tölur! Cool, þú skilgreint tókst breytu sem fjöldi `123456789`. Í næstu áskorun munum við líta á að notfæra tölurnar. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---

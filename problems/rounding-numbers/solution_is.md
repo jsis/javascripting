@@ -1,0 +1,1 @@
+--- # Þessi tala er rúnnuð Já, þú námundað bara númerið `1.5` að` 2`. Gott starf. Í næstu áskorun munum snúa númer í band. Hlaupa `javascripting` í vélinni til að velja næsta áskorun. ---
